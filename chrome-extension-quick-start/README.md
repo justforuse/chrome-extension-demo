@@ -1,0 +1,1 @@
+Open first url in new tab
